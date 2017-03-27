@@ -12,6 +12,7 @@
 #define IDD_APP                         110
 #define IDC_VIDEOVIEW                   1003
 #define IDC_CHECK_SEATED                1012
+#define CHECK_TRAINING					1013
 #define IDC_STATIC                      -1
 #define IDC_STATUS                      -1
 
